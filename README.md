@@ -68,10 +68,3 @@ I'm a **Computer Science Graduate Student** focusing on software development. I'
   </tr>
 </table>
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center"><p>
-  <img src="https://github-readme-stats.vercel.app/api?username=421pvv&show_icons=true&theme=tokyonight&hide_border=true" width="49%" height=160px/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=421pvv&layout=compact&theme=tokyonight&hide_border=true" width="49%" height=160px/>
-</p></div>
