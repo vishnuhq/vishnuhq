@@ -12,23 +12,9 @@
 <br/>
 
 <strong>Hello! I'm a Computer Science Graduate Student focusing on software development. I'm proficient in Full Stack Development and API design, with hands-on experience building complete applications. I'm also familiar with DevOps practices and Agile methodologies.</strong>
-
-<div align="center">
-<table>
-  <tr>
-    <td><strong>Seeking</strong></td>
-    <td>Full-time/Internship roles in Software Engineering, Full Stack, Frontend, Backend, DevOps/Testing</td>
-  </tr>
-   <tr>
-    <td><strong>Work</strong></td>
-    <td>Teaching Assistant (TA) for Algorithms and Web Programming Graduate Courses</td>
-  </tr>
-  <tr>
-    <td><strong>Focus</strong></td>
-    <td>Creating scalable, efficient solutions with clean, readable code while practicing best software engineering principles</td>
-  </tr>
-</table>
-<div>
+- <strong>Seeking:</strong> Full-time/Internship roles in Software Engineering, Full Stack, Frontend, Backend, DevOps/Testing
+- <strong>Work:</strong> Teaching Assistant (TA) for Algorithms and Web Programming Graduate Courses
+- <strong>Focus:</strong> Creating scalable, efficient solutions with clean, readable code while practicing best software engineering principles
 
 <div align="center">
 
