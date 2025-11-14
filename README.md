@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Header Section: Dynamic SVG banner with gradient background and animated text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2DD4BF,100:0D9488&height=180&section=header&text=Vishnu%20Vardhan%20Putta&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Graduate%20Student%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2DD4BF,100:0D9488&height=150&section=header&text=Vishnu%20Vardhan%20Putta&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Computer%20Science%20Graduate%20Student%20|%20Full%20Stack%20Developer&descAlignY=50&descSize=15" width="100%" />
 
 <!-- Contact & Social Links: Quick access badges for professional profiles -->
 <p align="center">
@@ -11,7 +11,6 @@
 
 </div>
 
-<br/>
 
 <!-- Introduction Section: Professional summary and current status -->
 <strong>Hello! I'm a Computer Science Graduate Student focusing on software development. I'm proficient in Full Stack Development and API design, with hands-on experience building complete applications. I'm also familiar with DevOps practices and Agile methodologies.</strong>
@@ -31,7 +30,7 @@
 <table>
   <!-- Programming Languages: Core languages used across different projects -->
   <tr>
-    <td align="center" width="200"><strong>Languages</strong></td>
+    <td align="center">Languages</td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -46,7 +45,7 @@
   
   <!-- Frontend Technologies: Client-side frameworks and styling tools -->
   <tr>
-    <td align="center" width="200"><strong>Frontend</strong></td>
+    <td align="center">Frontend</td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
@@ -59,7 +58,7 @@
   
   <!-- Backend Technologies: Server-side frameworks and API development tools -->
   <tr>
-    <td align="center" width="200"><strong>Backend & APIs</strong></td>
+    <td align="center">Backend & APIs</td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
@@ -71,7 +70,7 @@
   
   <!-- Database Systems: Data storage and management solutions -->
   <tr>
-    <td align="center" width="200"><strong>Databases</strong></td>
+    <td align="center">Databases</td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -81,7 +80,7 @@
   
   <!-- DevOps & Cloud: Deployment, CI/CD, and infrastructure tools -->
   <tr>
-    <td align="center" width="200"><strong>DevOps & Cloud</strong></td>
+    <td align="center">DevOps & Cloud</td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black" alt="AWS" />
@@ -94,7 +93,7 @@
   
   <!-- Development Environments: IDEs and code editors for different languages -->
   <tr>
-    <td align="center" width="200"><strong>IDEs & Editors</strong></td>
+    <td align="center">IDEs & Editors</td>
     <td>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=black" alt="PyCharm" />
@@ -106,7 +105,7 @@
   
   <!-- Testing & Additional Tools: Quality assurance, API testing, and collaboration tools -->
   <tr>
-    <td align="center" width="200"><strong>Testing & Tools</strong></td>
+    <td align="center">Testing & Tools</td>
     <td>
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
